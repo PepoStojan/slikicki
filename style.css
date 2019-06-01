@@ -1,0 +1,100 @@
+
+html {scroll-behavior: smooth;}
+body { 
+    font-family: 'Dosis', sans-serif; 
+   
+    }
+    .m-top { margin-top: 7%;}
+    .m-top2 { margin-top: 12%;}
+    .m-top3 { margin-top: 5%;}
+
+
+    /* bg=1 */
+
+.navbar {
+margin-bottom: 0 !important;
+color: white;
+}
+.navbar a {color: rgb(44, 43, 41);}
+
+
+.bg-1 {
+   height: 90vh;
+   background-image: url('img/illustration-brainstorming-teamwork_53876-18397.jpg');
+   background-size: cover;
+   background-position: center;
+
+  }
+
+
+    .row-1  p{ 
+      font-size: 25px;
+      background: -webkit-linear-gradient(rgb(47, 137, 221), rgb(180, 105, 61));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;   
+      }
+
+    /*  */
+
+
+
+#second { 
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 25px;
+  line-height: 50px;
+  background-color: #FAFAFA;
+  height: 100vh;}
+  
+#third { 
+font-family: 'ZCOOL KuaiLe', cursive;
+font-size: 25px;
+line-height: 50px;
+background-color: #F7F7F7;
+height: 100vh;}
+#forth { 
+font-family: 'ZCOOL KuaiLe', cursive;
+font-size: 25px;
+line-height: 50px;
+background-color: #EDEDE1;
+background-image: -webkit-linear-gradient(71deg, rgb(219, 107, 63) 25%, rgba(251, 253, 255, 0) 32%);
+  min-height: 500px;
+height: 100vh;}
+
+#fifth { 
+  font-family: 'ZCOOL KuaiLe', cursive;
+font-size: 25px;
+line-height: 50px;
+  background-color: #FFFFFF;
+  background-image: -webkit-linear-gradient(10deg, rgba(64, 216, 102, 0.726) 25%, rgba(251, 253, 255, 0) 32%);
+  min-height: 500px;
+height: 100vh;
+}
+
+
+.six { 
+  font-family: 'ZCOOL KuaiLe', cursive;
+font-size: 25px;
+line-height: 50px;
+background-color: #E7E8EA;
+background-image: -webkit-linear-gradient(221deg, rgba(39, 133, 240, 0.589) 26%, rgba(251, 253, 255, 0) 41%);
+min-height: 500px;
+min-height: 500px;
+height: 100vh;
+}
+
+
+.none { display: none;}
+
+
+.social-box { transform: rotate(-10deg); }
+
+
+
+
+
+#title { 
+    background: -webkit-linear-gradient(rgb(47, 137, 221), rgb(180, 105, 61));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    font-size: 40px;
+ }
